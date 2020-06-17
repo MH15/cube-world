@@ -8,6 +8,10 @@ interested in programming. This is probably the first "complete" project I ever 
 I've left this directory in the format that I found it. Until recently, the
 source code was believed to be lost.
 
+Making this game taught me many of the first things I learned in computer
+programming. The idea served as a framework to learn Javascript and later Unity.
+If I get around to it I'll make the Unity source code available as well.
+
 ## Notes
 - `css/` - so many CSS files
 - `dev photos/` - many unlabeled screenshots of the dev process
