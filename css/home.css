@@ -1,0 +1,127 @@
+* {
+    /*border: 1px solid red !important;*/
+    
+}
+
+body {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+div.grid.homepage {
+	margin: 0 auto !important;
+	max-width: 350px;
+	display: table;
+	height: 100%;
+}
+
+div.grid.logo {
+	width: 300px;
+	display: table;
+	margin-bottom: -10%;
+}
+
+div.grid.logo img {
+	margin: 0 auto;
+	margin-top: 1%;
+	display: table-cell;
+
+}
+
+div.grid.homepage .row.menu {
+	width: initial;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+button {
+	/*Change for longer button words
+	width: 150px;*/
+	text-align: center;
+	  margin: 0 auto;
+}
+
+.home-button {
+	height: 93px;
+	width: 100%;
+	border-radius: 5px;
+	color: #DDDDDD;
+	text-align: center;
+	font-size: 2.7em;
+	padding: 0;
+	padding-top: 2px !important;
+	transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.home-button:hover {
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, .50);
+}
+
+.home-button-padding {
+	margin: 3px;
+}
+
+/*button specific*/
+/*first row*/
+.home-button.play {
+	background-color: #961C87 !important;
+}
+/*second row*/
+.home-button.credits {
+	background-color: #7E4800 !important;
+}
+.home-button.rankings {
+	background-color: #E50A1B !important;
+}
+.home-button.rate {
+	background-color: #321C96 !important;
+}
+/*third row*/
+.home-button.more {
+	background-color: #2A7610 !important;
+}
+.home-button.upgrade {
+	background-color: #FF7032 !important;
+}
+
+.grid.homepage a {
+	width: 100%;
+}
+
+.grid.homepage h1.title {
+	margin-bottom: 5px;
+}
+
+/*Font Ideas
+	&#xe01c; credits- use transform for starwars-like credits
+	&#xe026; rate/upgrade? make gold if for upgrade
+	&#xe061; replay- optionally display for play again page
+	&#xe06b; play
+	&#xe06a; more apps
+	&#xe0a0; more apps- better
+	&#xe0f8; chart for highscores/rankings
+	&#xe10e; upgrade
+
+
+
+.icon-tilted {
+	transform: rotateX(90deg);
+}
+
+*/
+
+
+
+a.logo-container {
+	width: 200px;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	
+}
+
+.logo-container img {
+	width: 100%;
+}

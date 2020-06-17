@@ -1,0 +1,113 @@
+* {
+    /*border: 1px solid red !important;*/
+}
+
+
+.homepage {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	max-width: 450px;
+}
+
+button {
+	/*Change for longer button words
+	width: 150px;*/
+	text-align: center;
+}
+
+.tile {
+	height:140px;
+	width:140px;
+}
+
+.col-4 a {
+	color: inherit;
+	font-weight: normal;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.tile-inner {
+	background: lightgray;
+	cursor: pointer;
+	padding:5px;
+	margin:10px;
+	border: 0;
+	border-radius: 10px;
+	width:1150px;
+	height:150px;
+
+	transition: box-shadow 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tile-inner:hover {
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, .50);
+}
+
+
+.tile-title {
+	height:40px;
+	width:40px;
+}
+
+.homepage p {
+	margin-bottom: 0;
+	position: relative;
+	bottom: 0;
+}
+
+
+/*Social Images*/
+.social{
+	margin:10px;
+	transition: box-shadow 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.social:hover {
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, .50);
+}
+
+.facebook{
+	background:#5A7AC7;
+}
+
+.youtube{
+	background: #FD3832;
+}
+
+.dribble{
+	background: #D97AA5;
+}
+
+/*tile specific- background images, hover effects, etc*/
+
+.original {
+	background-color: #961C87;
+	color: #D3D3D3;
+}
+
+.terminal {
+	background-color: #00A02C;
+	color: #D3D3D3;
+
+}
+
+.neon {
+	background-color: #FFAE00;
+	color: #D3D3D3;
+}
+
+.night {
+	background-color: #961C87;
+	color: #D3D3D3;
+}
+
+.original {
+	background-color: #961C87;
+	color: #D3D3D3;
+}
+
+.demolition{
+	background-image: url("../images/123.png") !important;*/
+}
+

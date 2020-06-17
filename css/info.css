@@ -1,0 +1,82 @@
+body {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 20px;
+	padding-top: 28px;
+}
+
+h1.title {
+	margin-bottom: 30px;
+}
+
+/*footer*/
+footer.grid {
+	width: 100%;
+	max-width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0;
+}
+
+footer.grid .row {
+	width: 100%;
+}
+
+footer .right {
+	float: right;
+	
+}
+p {
+	width: 100%;
+}
+
+.credits {
+	font-family: monospace;
+  	margin: 1em 0px;
+}
+
+.credits-title {
+	margin-bottom: 3px;
+	margin-top: 1.5px;
+}
+
+.credits-last {
+	margin-bottom: 10px;
+}
+
+a {
+	font-family:monospace;
+	
+}
+
+.splash-container {
+	margin: 0 auto;
+}
+
+.splash {
+	margin: 0 auto;
+	float: left;
+	margin-bottom: 36px;
+	width: 100%;
+	max-width: 436px;
+	font-size: 8em;
+	text-align: center;
+}
+
+/*Windows 8 only
+img {
+    width: 450px;
+    height: 157px;
+}
+*/
+
+
+pre {
+	width: 262px;
+	margin: 0 auto;
+	margin-top: 50px;
+	font-weight: bolder;
+	font-size: 8px;
+}

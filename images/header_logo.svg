@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="650mm"
+   height="150mm"
+   viewBox="0 0 2303.1495 531.49606"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="header_logo.svg"
+   inkscape:export-filename="C:\Users\Matthew Hall\Desktop\Hall Technologies Site Concept\resources\images\header_logo.png"
+   inkscape:export-xdpi="25.400002"
+   inkscape:export-ydpi="25.400002">
+  <title
+     id="title4000">header_logo</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4820">
+      <stop
+         style="stop-color:#22ddbc;stop-opacity:1;"
+         offset="0"
+         id="stop4822" />
+      <stop
+         style="stop-color:#22ddbc;stop-opacity:0;"
+         offset="1"
+         id="stop4824" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4820"
+       id="linearGradient4826"
+       x1="155.02678"
+       y1="786.73065"
+       x2="383.7182"
+       y2="786.73065"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.23664773"
+     inkscape:cx="1508.745"
+     inkscape:cy="359.73969"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>header_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-520.86614)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#525252;stroke-width:14.41699982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4002"
+       width="385.58295"
+       height="385.58298"
+       x="67.208496"
+       y="599.57074" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="536.34851"
+       y="837.22516"
+       id="text4804"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4806"
+         x="536.34851"
+         y="837.22516"
+         style="font-weight:bold;font-size:180px;fill:#525252;fill-opacity:1;">HallTechnologies</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4808"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion4810"><rect
+           id="rect4812"
+           width="40.338192"
+           height="59.760284"
+           x="512.44446"
+           y="132.59613" /></flowRegion><flowPara
+         id="flowPara4814" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#961c87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="137.44865"
+       y="852.16522"
+       id="text4816"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4818"
+         x="137.44865"
+         y="852.16522"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Sans;-inkscape-font-specification:'Sans Bold';writing-mode:lr-tb;fill:#961c87;fill-opacity:1;">HT</tspan></text>
+  </g>
+</svg>

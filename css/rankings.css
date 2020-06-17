@@ -1,0 +1,43 @@
+* {
+    /*border: 1px solid red !important;*/
+    
+}
+
+body {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+div.grid.rankings {
+	width: 350px !important;
+	height: 100%;
+	display: table;
+}
+
+div.grid.rankings .container {
+
+	display: table-cell;
+	vertical-align: middle;
+}
+
+div.row.main {
+	padding: 10px;
+	margin-top: 8px;
+	background-color: #2A7610 !important;
+    margin-bottom: 5px;
+
+	height: 53px;
+	width: 100%;
+	border-radius: 5px;
+	color: #DDDDDD;
+
+	transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+div.row.main:hover {
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, .50);
+}
+
+button {
+	margin-left: 0;
+}

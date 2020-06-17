@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Cube World</title>
+  <!--<link href='http://fonts.googleapis.com/css?family=Roboto:500,300,700,400' rel='stylesheet' type='text/css'>-->
+  <link rel="stylesheet" href="css/framework.css">
+  <link rel="stylesheet" href="css/main.css">
+
+
+  <link rel="stylesheet" href="css/icons.css">
+  <link rel="shortcut icon" href="images/favicontransparent.ico">
+  <script type="text/javascript" src="js/canvas.js"></script>
+</head>
+<body>
+<div class="row game-button-container">
+	<div class="col-12">
+		<div class="row container">
+			<button class="game-button" id="pause">
+				<div class="fs1" aria-hidden="true" data-icon="&#xe06f;"></div>
+			</button>
+		</div>
+		<div class="row container">
+			 <a onclick="resetGame()" class="restart-button"><button class="game-button" id="restart">
+				<div class="fs1" aria-hidden="true" data-icon="&#xe061;"></div>
+			</button>
+		</a>
+		</div>
+		<div class="row container">
+			<a href="pages/home.html">
+				<button class="game-button" id="restart">
+					<div class="fs1" aria-hidden="true" data-icon="&#xe0f5;"></div>
+				</button>
+			</a>
+		</div>
+		<a href="pages/best.html">
+		<div class="row container">
+			<div class="score-container col-12">
+				<div class="row">HIGH<br>SCORE</div>
+				<div class="row"><h1 id="highscore"></h1></div>
+			</div>
+			<h2 id="countAmountCont"></h2>
+		</div>
+	</a>
+	
+	</div>
+</div>
+
+<script type="text/javascript">
+    //blah balh blah
+
+    function resetGame() {
+        location.reload();
+    }
+</script>
+<!--
+<div class="row container">
+	<button class="game-button" id="restart">
+		<div class="fs1" aria-hidden="true" data-icon="&#xe061;"></div>
+	</button>
+</div>
+
+<div class="row container">
+	<a href="pages/home.html">
+		<button class="game-button" id="gohome">
+			<div class="fs1" aria-hidden="true" data-icon="&#xe0f5;"></div>
+		</button>
+	</a>
+</div>
+
+	<p id="highscore">y1Counter1</p>
+-->
+<div class="grid canvas-container">
+	<div class="row center" id="keepGoing">
+		<canvas id="canvas" width="400" height="600">
+			This text is displayed if your browser doesn't support HTML5 Canvas. We suggest you download a more modern browser such as <a href="www.google.com/chrome">Google Chrome</a>, <a href="www.mozilla.org">Mozilla Firefox</a>, Safari, or Opera. <strong>Hint: <em>do not</em> use Internet Explorer 10 or below whatever you do.</strong>
+		</canvas>
+	</div>
+</div>
+		<!--Paused/Game Over Controls
+		<div id="play-again-clicker">
+
+		</div>-->
+
+	</div>
+				<!--<div class="col-6">
+
+					<button id="pause">Pause</button>
+					
+					<h2 id="dist">set 2</h2>
+					<br>
+
+					<h2>set 1</h2>
+					<p id="y1y1">y1Counter1</p>
+					<p id="y1y2">y1Counter1</p>
+					<p id="y1y3">y1Counter1</p>
+					<p id="y1y4">y1Counter1</p>
+					<p id="y1y5">y1Counter1</p>
+					<p id="y1y6">y1Counter1</p>
+
+					<br>
+
+					<h2>set 2</h2>
+					<p id="y2y1">y1Counter1</p>
+					<p id="y2y2">y1Counter1</p>
+					<p id="y2y3">y1Counter1</p>
+					<p id="y2y4">y1Counter1</p>
+					<p id="y2y5">y1Counter1</p>
+					<p id="y2y6">y1Counter1</p>
+				</div>
+			</div>-->
+		
+
+
+		<!--
+
+		
+	<div class="grid">
+		
+		<div class="row">
+			<h1 class="title">Cube World</h1>
+
+		</div>
+	
+		<div class="row">
+			<p class="game-explanation">
+				<strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the circle. Avoid the cubes to reach the <strong>Finish!</strong>
+			</p>
+		</div>
+		<hr>
+		<div class="row">
+			<p>
+				<strong class="important">Note:</strong> The game on <a href="http://localhost:59542/index.html">this site</a> is the original version of Cube World. Apps for <a href="https://itunes.apple.com" target="_blank">iOS</a> and <a href="https://play.google.com" target="_blank">Android</a> are also available. Other versions are derivatives or fakes, and should be used with extreme caution, or better yet, not used at all.
+			</p>
+		</div>
+		<hr class="last">
+	</div>
+	
+	<footer class="row no-margin-bottom">
+		<span class="created-notice">
+			Created by <a href="http://halltechnologies.weebly.com/">Hall Technologies.</a> All Rights Reserved.
+		</span>
+	</footer>
+	Game Score and Distance
+	
+	<div class="score-container grid">
+		<div class="row">
+			<a class="restart-button">New Game</a>
+		</div>
+		<div class="row">
+			<div class="col-6">
+				<div class="score-container">0</div>
+			</div>
+			<div class="col-6">
+				<div class="best-container">3</div>
+			</div>
+		</div>
+	</div>
+	
+	-->
+  
