@@ -1,5 +1,5 @@
 # cube-world
-A game myself and @peterhall16 made years ago.
+A game myself and [@peterhall16](https://github.com/peterhall16) made years ago.
 
 ## Introduction
 I made this project as high school freshman (2014-2015 ish) as began to get
